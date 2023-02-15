@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sangram73
 - 👀 I’m interested in programing in backend languages
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
